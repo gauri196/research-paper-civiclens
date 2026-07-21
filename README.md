@@ -14,11 +14,6 @@ This paper presents CivicLens, a platform that enables citizens to report civic 
 - Power BI
 - AI
 
-## Paper
-
-Download the complete paper here:
-
-📄 [Research Paper]research_paper.pdf
 
 ## Author
 
